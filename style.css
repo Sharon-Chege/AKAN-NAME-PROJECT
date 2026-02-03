@@ -33,8 +33,26 @@ h2{
     text-align: center;
     padding: 50px 0px 0px 0px;
 }
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvECQAe96fJ3OgRS0To7-OITamLuLYUb-jeQ&s);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200vh;
+    margin:0;
+}
 
+#result{
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
 
+#submit{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
 
 
 
