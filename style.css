@@ -5,6 +5,8 @@
 }
 
 .All form{
+    justify-content: center;
+    align-items: center;
     padding: 100px;
     border: solid black 2px;
     margin: 100px 200px;
